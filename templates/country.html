@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<header class="header-background">
+<p><a href="{{ url_for('index') }}">Country list</a></p>
+<h1>{{ country['Name'] }}</h1>
+</header>
+
+<div>
+<h2>Country information</h2>
+
+<p>{{ country['Name'] }} is on the list of top 10 fastest growing countries by GDP per capita, as determined by <a href="https://data.worldbank.org/indicator/NY.GDP.PCAP.KD.ZG?most_recent_value_desc=true">The World Bank.</a> </p>
+
+<p>Cause of death information was derived from the World Health Organization's <a href="https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/ghe-leading-causes-of-death"> Global health estimates: Leading causes of death. </a></p>
+<div id="instructions">
+<p><b>Hover</b> on the squares to highlight a measure.  <b>Click</b> on a box to filter the graph.</p>
+</div>
+<div id="chart"></div>
+
+
+<p><a href="{{ country['Page'] }}">View the information for {{ country['Name'] }} here.</a></p>
+
+<!-- NOTE the way to link to a route: Use the function name -->
+<p><a href="{{ url_for('index') }}">Return to the list</a> to select a different country.</p>
+
+<script src="../static/scripts/main.js"></script>
+</div>
+
+{% endblock %}

@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Top Causes of Death Among <br>the Fastest Developing Countries</h1>
+
+</header>
+<p id="tag"><b>Select a country from the list.</b></p>
+
+<div id="menu">
+<div class="dropdown dropright">
+   <button type="button" class="dropbtn" data-toggle="dropdown">
+     Select from list
+   </button>
+  <ul class="dropdown-menu btn-block">
+     {% for pair in pairs %}
+           <li class="dropdown-item btn-block"><a href="{{ url_for('detail', num=pair[0] ) }}">{{ pair[1] }}</a></li>
+     {% endfor %}
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js">
+</script>
+<script src="../static/scripts/main.js"></script>
+  </ul>
+ </div>
+</div>
+
+{% endblock %}

@@ -1,0 +1,1802 @@
+[
+  {
+    "country": "Bangladesh",
+    "year": 2000,
+    "first": "Neonatal conditions",
+    "second": "Tuberculosis",
+    "third": "Stroke",
+    "fourth": "Diarrhoeal diseases",
+    "fifth": "Lower respiratory infections"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2001,
+    "first": "Neonatal conditions",
+    "second": "Tuberculosis",
+    "third": "Stroke",
+    "fourth": "Diarrhoeal diseases",
+    "fifth": "Lower respiratory infections"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2002,
+    "first": "Neonatal conditions",
+    "second": "Stroke",
+    "third": "Tuberculosis",
+    "fourth": "Diarrhoeal diseases",
+    "fifth": "Lower respiratory infections"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2003,
+    "first": "Neonatal conditions",
+    "second": "Stroke",
+    "third": "Tuberculosis",
+    "fourth": "Ischaemic heart disease",
+    "fifth": "Diarrhoeal diseases"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2004,
+    "first": "Stroke",
+    "second": "Neonatal conditions",
+    "third": "Tuberculosis",
+    "fourth": "Ischaemic heart disease",
+    "fifth": "Diarrhoeal diseases"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2005,
+    "first": "Stroke",
+    "second": "Neonatal conditions",
+    "third": "Tuberculosis",
+    "fourth": "Ischaemic heart disease",
+    "fifth": "Diarrhoeal diseases"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2006,
+    "first": "Stroke",
+    "second": "Neonatal conditions",
+    "third": "Ischaemic heart disease",
+    "fourth": "Tuberculosis",
+    "fifth": "Diarrhoeal diseases"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2007,
+    "first": "Stroke",
+    "second": "Neonatal conditions",
+    "third": "Ischaemic heart disease",
+    "fourth": "Tuberculosis",
+    "fifth": "Diarrhoeal diseases"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2008,
+    "first": "Stroke",
+    "second": "Ischaemic heart disease",
+    "third": "Neonatal conditions",
+    "fourth": "Tuberculosis",
+    "fifth": "Diarrhoeal diseases"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2009,
+    "first": "Stroke",
+    "second": "Ischaemic heart disease",
+    "third": "Neonatal conditions",
+    "fourth": "Tuberculosis",
+    "fifth": "Diarrhoeal diseases"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2010,
+    "first": "Stroke",
+    "second": "Ischaemic heart disease",
+    "third": "Tuberculosis",
+    "fourth": "Neonatal conditions",
+    "fifth": "COPD"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2011,
+    "first": "Stroke",
+    "second": "Ischaemic heart disease",
+    "third": "Tuberculosis",
+    "fourth": "Neonatal conditions",
+    "fifth": "COPD"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2012,
+    "first": "Stroke",
+    "second": "Ischaemic heart disease",
+    "third": "Tuberculosis",
+    "fourth": "Neonatal conditions",
+    "fifth": "Diarrhoeal diseases"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2013,
+    "first": "Stroke",
+    "second": "Ischaemic heart disease",
+    "third": "Tuberculosis",
+    "fourth": "Neonatal conditions",
+    "fifth": "Diarrhoeal diseases"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2014,
+    "first": "Stroke",
+    "second": "Ischaemic heart disease",
+    "third": "Tuberculosis",
+    "fourth": "Neonatal conditions",
+    "fifth": "COPD"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2015,
+    "first": "Stroke",
+    "second": "Ischaemic heart disease",
+    "third": "Tuberculosis",
+    "fourth": "Neonatal conditions",
+    "fifth": "COPD"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2016,
+    "first": "Stroke",
+    "second": "Ischaemic heart disease",
+    "third": "Tuberculosis",
+    "fourth": "Neonatal conditions",
+    "fifth": "COPD"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2017,
+    "first": "Stroke",
+    "second": "Ischaemic heart disease",
+    "third": "Tuberculosis",
+    "fourth": "Neonatal conditions",
+    "fifth": "COPD"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2018,
+    "first": "Stroke",
+    "second": "Ischaemic heart disease",
+    "third": "Neonatal conditions",
+    "fourth": "Tuberculosis",
+    "fifth": "COPD"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2019,
+    "first": "Stroke",
+    "second": "Ischaemic heart disease",
+    "third": "COPD",
+    "fourth": "Neonatal conditions",
+    "fifth": "Tuberculosis"
+  },
+  {
+    "country": "China",
+    "year": 2000,
+    "first": "Stroke",
+    "second": "COPD",
+    "third": "Ischaemic heart disease",
+    "fourth": "Trachea, bronchus, lung cancers",
+    "fifth": "Stomach cancer"
+  },
+  {
+    "country": "China",
+    "year": 2001,
+    "first": "Stroke",
+    "second": "COPD",
+    "third": "Ischaemic heart disease",
+    "fourth": "Trachea, bronchus, lung cancers",
+    "fifth": "Stomach cancer"
+  },
+  {
+    "country": "China",
+    "year": 2002,
+    "first": "Stroke",
+    "second": "COPD",
+    "third": "Ischaemic heart disease",
+    "fourth": "Trachea, bronchus, lung cancers",
+    "fifth": "Stomach cancer"
+  },
+  {
+    "country": "China",
+    "year": 2003,
+    "first": "Stroke",
+    "second": "COPD",
+    "third": "Ischaemic heart disease",
+    "fourth": "Trachea, bronchus, lung cancers",
+    "fifth": "Stomach cancer"
+  },
+  {
+    "country": "China",
+    "year": 2004,
+    "first": "Stroke",
+    "second": "COPD",
+    "third": "Ischaemic heart disease",
+    "fourth": "Trachea, bronchus, lung cancers",
+    "fifth": "Stomach cancer"
+  },
+  {
+    "country": "China",
+    "year": 2005,
+    "first": "Stroke",
+    "second": "COPD",
+    "third": "Ischaemic heart disease",
+    "fourth": "Trachea, bronchus, lung cancers",
+    "fifth": "Stomach cancer"
+  },
+  {
+    "country": "China",
+    "year": 2006,
+    "first": "Stroke",
+    "second": "Ischaemic heart disease",
+    "third": "COPD",
+    "fourth": "Trachea, bronchus, lung cancers",
+    "fifth": "Stomach cancer"
+  },
+  {
+    "country": "China",
+    "year": 2007,
+    "first": "Stroke",
+    "second": "Ischaemic heart disease",
+    "third": "COPD",
+    "fourth": "Trachea, bronchus, lung cancers",
+    "fifth": "Stomach cancer"
+  },
+  {
+    "country": "China",
+    "year": 2008,
+    "first": "Stroke",
+    "second": "Ischaemic heart disease",
+    "third": "COPD",
+    "fourth": "Trachea, bronchus, lung cancers",
+    "fifth": "Stomach cancer"
+  },
+  {
+    "country": "China",
+    "year": 2009,
+    "first": "Stroke",
+    "second": "Ischaemic heart disease",
+    "third": "COPD",
+    "fourth": "Trachea, bronchus, lung cancers",
+    "fifth": "Stomach cancer"
+  },
+  {
+    "country": "China",
+    "year": 2010,
+    "first": "Stroke",
+    "second": "Ischaemic heart disease",
+    "third": "COPD",
+    "fourth": "Trachea, bronchus, lung cancers",
+    "fifth": "Stomach cancer"
+  },
+  {
+    "country": "China",
+    "year": 2011,
+    "first": "Stroke",
+    "second": "Ischaemic heart disease",
+    "third": "COPD",
+    "fourth": "Trachea, bronchus, lung cancers",
+    "fifth": "Stomach cancer"
+  },
+  {
+    "country": "China",
+    "year": 2012,
+    "first": "Stroke",
+    "second": "Ischaemic heart disease",
+    "third": "COPD",
+    "fourth": "Trachea, bronchus, lung cancers",
+    "fifth": "Stomach cancer"
+  },
+  {
+    "country": "China",
+    "year": 2013,
+    "first": "Stroke",
+    "second": "Ischaemic heart disease",
+    "third": "COPD",
+    "fourth": "Trachea, bronchus, lung cancers",
+    "fifth": "Stomach cancer"
+  },
+  {
+    "country": "China",
+    "year": 2014,
+    "first": "Stroke",
+    "second": "Ischaemic heart disease",
+    "third": "COPD",
+    "fourth": "Trachea, bronchus, lung cancers",
+    "fifth": "Stomach cancer"
+  },
+  {
+    "country": "China",
+    "year": 2015,
+    "first": "Stroke",
+    "second": "Ischaemic heart disease",
+    "third": "COPD",
+    "fourth": "Trachea, bronchus, lung cancers",
+    "fifth": "Stomach cancer"
+  },
+  {
+    "country": "China",
+    "year": 2016,
+    "first": "Stroke",
+    "second": "Ischaemic heart disease",
+    "third": "COPD",
+    "fourth": "Trachea, bronchus, lung cancers",
+    "fifth": "Stomach cancer"
+  },
+  {
+    "country": "China",
+    "year": 2017,
+    "first": "Stroke",
+    "second": "Ischaemic heart disease",
+    "third": "COPD",
+    "fourth": "Trachea, bronchus, lung cancers",
+    "fifth": "Stomach cancer"
+  },
+  {
+    "country": "China",
+    "year": 2018,
+    "first": "Stroke",
+    "second": "Ischaemic heart disease",
+    "third": "COPD",
+    "fourth": "Trachea, bronchus, lung cancers",
+    "fifth": "Stomach cancer"
+  },
+  {
+    "country": "China",
+    "year": 2019,
+    "first": "Stroke",
+    "second": "Ischaemic heart disease",
+    "third": "COPD",
+    "fourth": "Trachea, bronchus, lung cancers",
+    "fifth": "Stomach cancer"
+  },
+  {
+    "country": "Ghana",
+    "year": 2000,
+    "first": "Neonatal conditions",
+    "second": "HIV/AIDS",
+    "third": "Malaria",
+    "fourth": "Lower respiratory infections",
+    "fifth": "Diarrhoeal diseases"
+  },
+  {
+    "country": "Ghana",
+    "year": 2001,
+    "first": "Neonatal conditions",
+    "second": "HIV/AIDS",
+    "third": "Malaria",
+    "fourth": "Lower respiratory infections",
+    "fifth": "Diarrhoeal diseases"
+  },
+  {
+    "country": "Ghana",
+    "year": 2002,
+    "first": "Neonatal conditions",
+    "second": "HIV/AIDS",
+    "third": "Lower respiratory infections",
+    "fourth": "Malaria",
+    "fifth": "Diarrhoeal diseases"
+  },
+  {
+    "country": "Ghana",
+    "year": 2003,
+    "first": "Neonatal conditions",
+    "second": "HIV/AIDS",
+    "third": "Lower respiratory infections",
+    "fourth": "Malaria",
+    "fifth": "Diarrhoeal diseases"
+  },
+  {
+    "country": "Ghana",
+    "year": 2004,
+    "first": "HIV/AIDS",
+    "second": "Neonatal conditions",
+    "third": "Lower respiratory infections",
+    "fourth": "Malaria",
+    "fifth": "Stroke"
+  },
+  {
+    "country": "Ghana",
+    "year": 2005,
+    "first": "HIV/AIDS",
+    "second": "Neonatal conditions",
+    "third": "Lower respiratory infections",
+    "fourth": "Malaria",
+    "fifth": "Stroke"
+  },
+  {
+    "country": "Ghana",
+    "year": 2006,
+    "first": "Neonatal conditions",
+    "second": "HIV/AIDS",
+    "third": "Lower respiratory infections",
+    "fourth": "Malaria",
+    "fifth": "Stroke"
+  },
+  {
+    "country": "Ghana",
+    "year": 2007,
+    "first": "Neonatal conditions",
+    "second": "HIV/AIDS",
+    "third": "Lower respiratory infections",
+    "fourth": "Malaria",
+    "fifth": "Stroke"
+  },
+  {
+    "country": "Ghana",
+    "year": 2008,
+    "first": "Neonatal conditions",
+    "second": "Lower respiratory infections",
+    "third": "HIV/AIDS",
+    "fourth": "Malaria",
+    "fifth": "Stroke"
+  },
+  {
+    "country": "Ghana",
+    "year": 2009,
+    "first": "Neonatal conditions",
+    "second": "Lower respiratory infections",
+    "third": "HIV/AIDS",
+    "fourth": "Malaria",
+    "fifth": "Stroke"
+  },
+  {
+    "country": "Ghana",
+    "year": 2010,
+    "first": "Neonatal conditions",
+    "second": "Lower respiratory infections",
+    "third": "HIV/AIDS",
+    "fourth": "Malaria",
+    "fifth": "Stroke"
+  },
+  {
+    "country": "Ghana",
+    "year": 2011,
+    "first": "Neonatal conditions",
+    "second": "Lower respiratory infections",
+    "third": "Malaria",
+    "fourth": "HIV/AIDS",
+    "fifth": "Stroke"
+  },
+  {
+    "country": "Ghana",
+    "year": 2012,
+    "first": "Neonatal conditions",
+    "second": "Lower respiratory infections",
+    "third": "Stroke",
+    "fourth": "Malaria",
+    "fifth": "HIV/AIDS"
+  },
+  {
+    "country": "Ghana",
+    "year": 2013,
+    "first": "Neonatal conditions",
+    "second": "Lower respiratory infections",
+    "third": "Stroke",
+    "fourth": "Malaria",
+    "fifth": "Ischaemic heart disease"
+  },
+  {
+    "country": "Ghana",
+    "year": 2014,
+    "first": "Neonatal conditions",
+    "second": "Lower respiratory infections",
+    "third": "Stroke",
+    "fourth": "HIV/AIDS",
+    "fifth": "Ischaemic heart disease"
+  },
+  {
+    "country": "Ghana",
+    "year": 2015,
+    "first": "Neonatal conditions",
+    "second": "Lower respiratory infections",
+    "third": "Stroke",
+    "fourth": "HIV/AIDS",
+    "fifth": "Ischaemic heart disease"
+  },
+  {
+    "country": "Ghana",
+    "year": 2016,
+    "first": "Neonatal conditions",
+    "second": "Lower respiratory infections",
+    "third": "Stroke",
+    "fourth": "HIV/AIDS",
+    "fifth": "Ischaemic heart disease"
+  },
+  {
+    "country": "Ghana",
+    "year": 2017,
+    "first": "Neonatal conditions",
+    "second": "Lower respiratory infections",
+    "third": "Stroke",
+    "fourth": "HIV/AIDS",
+    "fifth": "Ischaemic heart disease"
+  },
+  {
+    "country": "Ghana",
+    "year": 2018,
+    "first": "Neonatal conditions",
+    "second": "Lower respiratory infections",
+    "third": "Stroke",
+    "fourth": "HIV/AIDS",
+    "fifth": "Ischaemic heart disease"
+  },
+  {
+    "country": "Ghana",
+    "year": 2019,
+    "first": "Neonatal conditions",
+    "second": "Lower respiratory infections",
+    "third": "Stroke",
+    "fourth": "Ischaemic heart disease",
+    "fifth": "HIV/AIDS"
+  },
+  {
+    "country": "India",
+    "year": 2000,
+    "first": "Diarrhoeal diseases",
+    "second": "Neonatal conditions",
+    "third": "Ischaemic heart disease",
+    "fourth": "Lower respiratory infections",
+    "fifth": "COPD"
+  },
+  {
+    "country": "India",
+    "year": 2001,
+    "first": "Diarrhoeal diseases",
+    "second": "Neonatal conditions",
+    "third": "Ischaemic heart disease",
+    "fourth": "Lower respiratory infections",
+    "fifth": "COPD"
+  },
+  {
+    "country": "India",
+    "year": 2002,
+    "first": "Diarrhoeal diseases",
+    "second": "Neonatal conditions",
+    "third": "Ischaemic heart disease",
+    "fourth": "COPD",
+    "fifth": "Lower respiratory infections"
+  },
+  {
+    "country": "India",
+    "year": 2003,
+    "first": "Diarrhoeal diseases",
+    "second": "Ischaemic heart disease",
+    "third": "Neonatal conditions",
+    "fourth": "COPD",
+    "fifth": "Lower respiratory infections"
+  },
+  {
+    "country": "India",
+    "year": 2004,
+    "first": "Diarrhoeal diseases",
+    "second": "Ischaemic heart disease",
+    "third": "Neonatal conditions",
+    "fourth": "COPD",
+    "fifth": "Lower respiratory infections"
+  },
+  {
+    "country": "India",
+    "year": 2005,
+    "first": "Diarrhoeal diseases",
+    "second": "Ischaemic heart disease",
+    "third": "Neonatal conditions",
+    "fourth": "COPD",
+    "fifth": "Lower respiratory infections"
+  },
+  {
+    "country": "India",
+    "year": 2006,
+    "first": "Ischaemic heart disease",
+    "second": "Diarrhoeal diseases",
+    "third": "Neonatal conditions",
+    "fourth": "COPD",
+    "fifth": "Lower respiratory infections"
+  },
+  {
+    "country": "India",
+    "year": 2007,
+    "first": "Ischaemic heart disease",
+    "second": "Diarrhoeal diseases",
+    "third": "Neonatal conditions",
+    "fourth": "COPD",
+    "fifth": "Stroke"
+  },
+  {
+    "country": "India",
+    "year": 2008,
+    "first": "Ischaemic heart disease",
+    "second": "Diarrhoeal diseases",
+    "third": "Neonatal conditions",
+    "fourth": "COPD",
+    "fifth": "Stroke"
+  },
+  {
+    "country": "India",
+    "year": 2009,
+    "first": "Ischaemic heart disease",
+    "second": "Diarrhoeal diseases",
+    "third": "Neonatal conditions",
+    "fourth": "COPD",
+    "fifth": "Stroke"
+  },
+  {
+    "country": "India",
+    "year": 2010,
+    "first": "Ischaemic heart disease",
+    "second": "Diarrhoeal diseases",
+    "third": "Neonatal conditions",
+    "fourth": "COPD",
+    "fifth": "Stroke"
+  },
+  {
+    "country": "India",
+    "year": 2011,
+    "first": "Ischaemic heart disease",
+    "second": "Diarrhoeal diseases",
+    "third": "COPD",
+    "fourth": "Neonatal conditions",
+    "fifth": "Stroke"
+  },
+  {
+    "country": "India",
+    "year": 2012,
+    "first": "Ischaemic heart disease",
+    "second": "Diarrhoeal diseases",
+    "third": "COPD",
+    "fourth": "Neonatal conditions",
+    "fifth": "Stroke"
+  },
+  {
+    "country": "India",
+    "year": 2013,
+    "first": "Ischaemic heart disease",
+    "second": "Diarrhoeal diseases",
+    "third": "COPD",
+    "fourth": "Stroke",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "India",
+    "year": 2014,
+    "first": "Ischaemic heart disease",
+    "second": "COPD",
+    "third": "Diarrhoeal diseases",
+    "fourth": "Stroke",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "India",
+    "year": 2015,
+    "first": "Ischaemic heart disease",
+    "second": "COPD",
+    "third": "Diarrhoeal diseases",
+    "fourth": "Stroke",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "India",
+    "year": 2016,
+    "first": "Ischaemic heart disease",
+    "second": "COPD",
+    "third": "Diarrhoeal diseases",
+    "fourth": "Stroke",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "India",
+    "year": 2017,
+    "first": "Ischaemic heart disease",
+    "second": "COPD",
+    "third": "Diarrhoeal diseases",
+    "fourth": "Stroke",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "India",
+    "year": 2018,
+    "first": "Ischaemic heart disease",
+    "second": "COPD",
+    "third": "Diarrhoeal diseases",
+    "fourth": "Stroke",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "India",
+    "year": 2019,
+    "first": "Ischaemic heart disease",
+    "second": "COPD",
+    "third": "Stroke",
+    "fourth": "Diarrhoeal diseases",
+    "fifth": "Tuberculosis"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2000,
+    "first": "Tuberculosis",
+    "second": "Stroke",
+    "third": "Neonatal conditions",
+    "fourth": "Ischaemic heart disease",
+    "fifth": "Lower respiratory infections"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2001,
+    "first": "Tuberculosis",
+    "second": "Stroke",
+    "third": "Neonatal conditions",
+    "fourth": "Ischaemic heart disease",
+    "fifth": "Lower respiratory infections"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2002,
+    "first": "Tuberculosis",
+    "second": "Stroke",
+    "third": "Neonatal conditions",
+    "fourth": "Ischaemic heart disease",
+    "fifth": "Lower respiratory infections"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2003,
+    "first": "Tuberculosis",
+    "second": "Stroke",
+    "third": "Neonatal conditions",
+    "fourth": "Ischaemic heart disease",
+    "fifth": "Lower respiratory infections"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2004,
+    "first": "Tuberculosis",
+    "second": "Stroke",
+    "third": "Neonatal conditions",
+    "fourth": "Ischaemic heart disease",
+    "fifth": "Lower respiratory infections"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2005,
+    "first": "Tuberculosis",
+    "second": "Stroke",
+    "third": "Ischaemic heart disease",
+    "fourth": "Neonatal conditions",
+    "fifth": "Lower respiratory infections"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2006,
+    "first": "Stroke",
+    "second": "Tuberculosis",
+    "third": "Ischaemic heart disease",
+    "fourth": "Neonatal conditions",
+    "fifth": "Lower respiratory infections"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2007,
+    "first": "Stroke",
+    "second": "Tuberculosis",
+    "third": "Ischaemic heart disease",
+    "fourth": "Neonatal conditions",
+    "fifth": "Lower respiratory infections"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2008,
+    "first": "Natural disasters",
+    "second": "Stroke",
+    "third": "Tuberculosis",
+    "fourth": "Ischaemic heart disease",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2009,
+    "first": "Stroke",
+    "second": "Tuberculosis",
+    "third": "Ischaemic heart disease",
+    "fourth": "Neonatal conditions",
+    "fifth": "COPD"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2010,
+    "first": "Stroke",
+    "second": "Tuberculosis",
+    "third": "Ischaemic heart disease",
+    "fourth": "COPD",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2011,
+    "first": "Stroke",
+    "second": "Tuberculosis",
+    "third": "Ischaemic heart disease",
+    "fourth": "COPD",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2012,
+    "first": "Stroke",
+    "second": "Tuberculosis",
+    "third": "Ischaemic heart disease",
+    "fourth": "COPD",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2013,
+    "first": "Stroke",
+    "second": "Tuberculosis",
+    "third": "Ischaemic heart disease",
+    "fourth": "COPD",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2014,
+    "first": "Stroke",
+    "second": "Tuberculosis",
+    "third": "Ischaemic heart disease",
+    "fourth": "COPD",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2015,
+    "first": "Stroke",
+    "second": "Ischaemic heart disease",
+    "third": "Tuberculosis",
+    "fourth": "COPD",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2016,
+    "first": "Stroke",
+    "second": "Ischaemic heart disease",
+    "third": "Tuberculosis",
+    "fourth": "COPD",
+    "fifth": "Lower respiratory infections"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2017,
+    "first": "Stroke",
+    "second": "Ischaemic heart disease",
+    "third": "Tuberculosis",
+    "fourth": "COPD",
+    "fifth": "Diabetes mellitus"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2018,
+    "first": "Stroke",
+    "second": "Ischaemic heart disease",
+    "third": "COPD",
+    "fourth": "Tuberculosis",
+    "fifth": "Diabetes mellitus"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2019,
+    "first": "Stroke",
+    "second": "Ischaemic heart disease",
+    "third": "COPD",
+    "fourth": "Diabetes mellitus",
+    "fifth": "Tuberculosis"
+  },
+  {
+    "country": "Panama",
+    "year": 2000,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Neonatal conditions",
+    "fourth": "Congenital anomalies",
+    "fifth": "Diabetes mellitus"
+  },
+  {
+    "country": "Panama",
+    "year": 2001,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Neonatal conditions",
+    "fourth": "Diabetes mellitus",
+    "fifth": "Congenital anomalies"
+  },
+  {
+    "country": "Panama",
+    "year": 2002,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Neonatal conditions",
+    "fourth": "Diabetes mellitus",
+    "fifth": "Congenital anomalies"
+  },
+  {
+    "country": "Panama",
+    "year": 2003,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Neonatal conditions",
+    "fourth": "Diabetes mellitus",
+    "fifth": "Congenital anomalies"
+  },
+  {
+    "country": "Panama",
+    "year": 2004,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Neonatal conditions",
+    "fourth": "Diabetes mellitus",
+    "fifth": "COPD"
+  },
+  {
+    "country": "Panama",
+    "year": 2005,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Lower respiratory infections",
+    "fourth": "Kidney diseases",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "Panama",
+    "year": 2006,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Kidney diseases",
+    "fourth": "Neonatal conditions",
+    "fifth": "Diabetes mellitus"
+  },
+  {
+    "country": "Panama",
+    "year": 2007,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Lower respiratory infections",
+    "fourth": "Kidney diseases",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "Panama",
+    "year": 2008,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Interpersonal violence",
+    "fourth": "Lower respiratory infections",
+    "fifth": "Kidney diseases"
+  },
+  {
+    "country": "Panama",
+    "year": 2009,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Interpersonal violence",
+    "fourth": "Lower respiratory infections",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "Panama",
+    "year": 2010,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Lower respiratory infections",
+    "fourth": "Interpersonal violence",
+    "fifth": "Kidney diseases"
+  },
+  {
+    "country": "Panama",
+    "year": 2011,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Interpersonal violence",
+    "fourth": "Lower respiratory infections",
+    "fifth": "Diabetes mellitus"
+  },
+  {
+    "country": "Panama",
+    "year": 2012,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Interpersonal violence",
+    "fourth": "Diabetes mellitus",
+    "fifth": "Lower respiratory infections"
+  },
+  {
+    "country": "Panama",
+    "year": 2013,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Lower respiratory infections",
+    "fourth": "Diabetes mellitus",
+    "fifth": "Interpersonal violence"
+  },
+  {
+    "country": "Panama",
+    "year": 2014,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Diabetes mellitus",
+    "fourth": "Lower respiratory infections",
+    "fifth": "Kidney diseases"
+  },
+  {
+    "country": "Panama",
+    "year": 2015,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Diabetes mellitus",
+    "fourth": "Kidney diseases",
+    "fifth": "Lower respiratory infections"
+  },
+  {
+    "country": "Panama",
+    "year": 2016,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Kidney diseases",
+    "fourth": "Diabetes mellitus",
+    "fifth": "COPD"
+  },
+  {
+    "country": "Panama",
+    "year": 2017,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Kidney diseases",
+    "fourth": "Diabetes mellitus",
+    "fifth": "COPD"
+  },
+  {
+    "country": "Panama",
+    "year": 2018,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Kidney diseases",
+    "fourth": "Diabetes mellitus",
+    "fifth": "COPD"
+  },
+  {
+    "country": "Panama",
+    "year": 2019,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Kidney diseases",
+    "fourth": "Diabetes mellitus",
+    "fifth": "COPD"
+  },
+  {
+    "country": "Philippines",
+    "year": 2000,
+    "first": "Ischaemic heart disease",
+    "second": "Lower respiratory infections",
+    "third": "Tuberculosis",
+    "fourth": "Stroke",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "Philippines",
+    "year": 2001,
+    "first": "Ischaemic heart disease",
+    "second": "Lower respiratory infections",
+    "third": "Tuberculosis",
+    "fourth": "Stroke",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "Philippines",
+    "year": 2002,
+    "first": "Ischaemic heart disease",
+    "second": "Lower respiratory infections",
+    "third": "Tuberculosis",
+    "fourth": "Stroke",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "Philippines",
+    "year": 2003,
+    "first": "Ischaemic heart disease",
+    "second": "Lower respiratory infections",
+    "third": "Stroke",
+    "fourth": "Tuberculosis",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "Philippines",
+    "year": 2004,
+    "first": "Ischaemic heart disease",
+    "second": "Lower respiratory infections",
+    "third": "Stroke",
+    "fourth": "Tuberculosis",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "Philippines",
+    "year": 2005,
+    "first": "Ischaemic heart disease",
+    "second": "Lower respiratory infections",
+    "third": "Tuberculosis",
+    "fourth": "Stroke",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "Philippines",
+    "year": 2006,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Lower respiratory infections",
+    "fourth": "Tuberculosis",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "Philippines",
+    "year": 2007,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Lower respiratory infections",
+    "fourth": "Tuberculosis",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "Philippines",
+    "year": 2008,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Lower respiratory infections",
+    "fourth": "Tuberculosis",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "Philippines",
+    "year": 2009,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Lower respiratory infections",
+    "fourth": "Tuberculosis",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "Philippines",
+    "year": 2010,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Lower respiratory infections",
+    "fourth": "Tuberculosis",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "Philippines",
+    "year": 2011,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Lower respiratory infections",
+    "fourth": "Tuberculosis",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "Philippines",
+    "year": 2012,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Lower respiratory infections",
+    "fourth": "Tuberculosis",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "Philippines",
+    "year": 2013,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Lower respiratory infections",
+    "fourth": "Tuberculosis",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "Philippines",
+    "year": 2014,
+    "first": "Ischaemic heart disease",
+    "second": "Lower respiratory infections",
+    "third": "Stroke",
+    "fourth": "Tuberculosis",
+    "fifth": "Kidney diseases"
+  },
+  {
+    "country": "Philippines",
+    "year": 2015,
+    "first": "Ischaemic heart disease",
+    "second": "Lower respiratory infections",
+    "third": "Stroke",
+    "fourth": "Kidney diseases",
+    "fifth": "Tuberculosis"
+  },
+  {
+    "country": "Philippines",
+    "year": 2016,
+    "first": "Ischaemic heart disease",
+    "second": "Lower respiratory infections",
+    "third": "Stroke",
+    "fourth": "Kidney diseases",
+    "fifth": "Hypertensive heart disease"
+  },
+  {
+    "country": "Philippines",
+    "year": 2017,
+    "first": "Ischaemic heart disease",
+    "second": "Lower respiratory infections",
+    "third": "Stroke",
+    "fourth": "Kidney diseases",
+    "fifth": "Hypertensive heart disease"
+  },
+  {
+    "country": "Philippines",
+    "year": 2018,
+    "first": "Ischaemic heart disease",
+    "second": "Lower respiratory infections",
+    "third": "Stroke",
+    "fourth": "Kidney diseases",
+    "fifth": "Hypertensive heart disease"
+  },
+  {
+    "country": "Philippines",
+    "year": 2019,
+    "first": "Ischaemic heart disease",
+    "second": "Lower respiratory infections",
+    "third": "Stroke",
+    "fourth": "Kidney diseases",
+    "fifth": "Hypertensive heart disease"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2000,
+    "first": "Diarrhoeal diseases",
+    "second": "Lower respiratory infections",
+    "third": "HIV/AIDS",
+    "fourth": "Neonatal conditions",
+    "fifth": "Stroke"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2001,
+    "first": "Lower respiratory infections",
+    "second": "Diarrhoeal diseases",
+    "third": "HIV/AIDS",
+    "fourth": "Neonatal conditions",
+    "fifth": "Stroke"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2002,
+    "first": "HIV/AIDS",
+    "second": "Lower respiratory infections",
+    "third": "Diarrhoeal diseases",
+    "fourth": "Neonatal conditions",
+    "fifth": "Stroke"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2003,
+    "first": "HIV/AIDS",
+    "second": "Lower respiratory infections",
+    "third": "Diarrhoeal diseases",
+    "fourth": "Neonatal conditions",
+    "fifth": "Stroke"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2004,
+    "first": "HIV/AIDS",
+    "second": "Lower respiratory infections",
+    "third": "Diarrhoeal diseases",
+    "fourth": "Neonatal conditions",
+    "fifth": "Stroke"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2005,
+    "first": "HIV/AIDS",
+    "second": "Lower respiratory infections",
+    "third": "Neonatal conditions",
+    "fourth": "Diarrhoeal diseases",
+    "fifth": "Stroke"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2006,
+    "first": "Lower respiratory infections",
+    "second": "HIV/AIDS",
+    "third": "Neonatal conditions",
+    "fourth": "Diarrhoeal diseases",
+    "fifth": "Stroke"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2007,
+    "first": "Lower respiratory infections",
+    "second": "Neonatal conditions",
+    "third": "HIV/AIDS",
+    "fourth": "Diarrhoeal diseases",
+    "fifth": "Stroke"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2008,
+    "first": "Lower respiratory infections",
+    "second": "Neonatal conditions",
+    "third": "HIV/AIDS",
+    "fourth": "Diarrhoeal diseases",
+    "fifth": "Stroke"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2009,
+    "first": "Lower respiratory infections",
+    "second": "Neonatal conditions",
+    "third": "HIV/AIDS",
+    "fourth": "Diarrhoeal diseases",
+    "fifth": "Stroke"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2010,
+    "first": "Neonatal conditions",
+    "second": "Lower respiratory infections",
+    "third": "Diarrhoeal diseases",
+    "fourth": "HIV/AIDS",
+    "fifth": "Stroke"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2011,
+    "first": "Neonatal conditions",
+    "second": "Lower respiratory infections",
+    "third": "Diarrhoeal diseases",
+    "fourth": "HIV/AIDS",
+    "fifth": "Stroke"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2012,
+    "first": "Neonatal conditions",
+    "second": "Lower respiratory infections",
+    "third": "Stroke",
+    "fourth": "Diarrhoeal diseases",
+    "fifth": "HIV/AIDS"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2013,
+    "first": "Neonatal conditions",
+    "second": "Lower respiratory infections",
+    "third": "Stroke",
+    "fourth": "Diarrhoeal diseases",
+    "fifth": "HIV/AIDS"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2014,
+    "first": "Neonatal conditions",
+    "second": "Lower respiratory infections",
+    "third": "Stroke",
+    "fourth": "Diarrhoeal diseases",
+    "fifth": "HIV/AIDS"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2015,
+    "first": "Neonatal conditions",
+    "second": "Lower respiratory infections",
+    "third": "Stroke",
+    "fourth": "Diarrhoeal diseases",
+    "fifth": "Road injury"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2016,
+    "first": "Neonatal conditions",
+    "second": "Lower respiratory infections",
+    "third": "Stroke",
+    "fourth": "Road injury",
+    "fifth": "Diarrhoeal diseases"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2017,
+    "first": "Neonatal conditions",
+    "second": "Lower respiratory infections",
+    "third": "Stroke",
+    "fourth": "Road injury",
+    "fifth": "Diarrhoeal diseases"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2018,
+    "first": "Neonatal conditions",
+    "second": "Lower respiratory infections",
+    "third": "Stroke",
+    "fourth": "Road injury",
+    "fifth": "Ischaemic heart disease"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2019,
+    "first": "Neonatal conditions",
+    "second": "Lower respiratory infections",
+    "third": "Stroke",
+    "fourth": "Road injury",
+    "fifth": "Ischaemic heart disease"
+  },
+  {
+    "country": "Sudan",
+    "year": 2000,
+    "first": "Neonatal conditions",
+    "second": "Ischaemic heart disease",
+    "third": "Lower respiratory infections",
+    "fourth": "Diarrhoeal diseases",
+    "fifth": "Stroke"
+  },
+  {
+    "country": "Sudan",
+    "year": 2001,
+    "first": "Neonatal conditions",
+    "second": "Ischaemic heart disease",
+    "third": "Lower respiratory infections",
+    "fourth": "Diarrhoeal diseases",
+    "fifth": "Stroke"
+  },
+  {
+    "country": "Sudan",
+    "year": 2002,
+    "first": "Neonatal conditions",
+    "second": "Ischaemic heart disease",
+    "third": "Lower respiratory infections",
+    "fourth": "Diarrhoeal diseases",
+    "fifth": "Stroke"
+  },
+  {
+    "country": "Sudan",
+    "year": 2003,
+    "first": "Neonatal conditions",
+    "second": "Ischaemic heart disease",
+    "third": "Lower respiratory infections",
+    "fourth": "Stroke",
+    "fifth": "Diarrhoeal diseases"
+  },
+  {
+    "country": "Sudan",
+    "year": 2004,
+    "first": "Neonatal conditions",
+    "second": "Ischaemic heart disease",
+    "third": "Lower respiratory infections",
+    "fourth": "Stroke",
+    "fifth": "Diarrhoeal diseases"
+  },
+  {
+    "country": "Sudan",
+    "year": 2005,
+    "first": "Neonatal conditions",
+    "second": "Ischaemic heart disease",
+    "third": "Lower respiratory infections",
+    "fourth": "Stroke",
+    "fifth": "Diarrhoeal diseases"
+  },
+  {
+    "country": "Sudan",
+    "year": 2006,
+    "first": "Neonatal conditions",
+    "second": "Ischaemic heart disease",
+    "third": "Lower respiratory infections",
+    "fourth": "Stroke",
+    "fifth": "Diarrhoeal diseases"
+  },
+  {
+    "country": "Sudan",
+    "year": 2007,
+    "first": "Neonatal conditions",
+    "second": "Ischaemic heart disease",
+    "third": "Lower respiratory infections",
+    "fourth": "Stroke",
+    "fifth": "Diarrhoeal diseases"
+  },
+  {
+    "country": "Sudan",
+    "year": 2008,
+    "first": "Neonatal conditions",
+    "second": "Ischaemic heart disease",
+    "third": "Lower respiratory infections",
+    "fourth": "Stroke",
+    "fifth": "Diarrhoeal diseases"
+  },
+  {
+    "country": "Sudan",
+    "year": 2009,
+    "first": "Neonatal conditions",
+    "second": "Ischaemic heart disease",
+    "third": "Lower respiratory infections",
+    "fourth": "Stroke",
+    "fifth": "Diarrhoeal diseases"
+  },
+  {
+    "country": "Sudan",
+    "year": 2010,
+    "first": "Neonatal conditions",
+    "second": "Ischaemic heart disease",
+    "third": "Lower respiratory infections",
+    "fourth": "Stroke",
+    "fifth": "Diarrhoeal diseases"
+  },
+  {
+    "country": "Sudan",
+    "year": 2011,
+    "first": "Neonatal conditions",
+    "second": "Ischaemic heart disease",
+    "third": "Lower respiratory infections",
+    "fourth": "Stroke",
+    "fifth": "Diarrhoeal diseases"
+  },
+  {
+    "country": "Sudan",
+    "year": 2012,
+    "first": "Ischaemic heart disease",
+    "second": "Neonatal conditions",
+    "third": "Lower respiratory infections",
+    "fourth": "Stroke",
+    "fifth": "Diarrhoeal diseases"
+  },
+  {
+    "country": "Sudan",
+    "year": 2013,
+    "first": "Ischaemic heart disease",
+    "second": "Neonatal conditions",
+    "third": "Stroke",
+    "fourth": "Lower respiratory infections",
+    "fifth": "Diarrhoeal diseases"
+  },
+  {
+    "country": "Sudan",
+    "year": 2014,
+    "first": "Ischaemic heart disease",
+    "second": "Neonatal conditions",
+    "third": "Stroke",
+    "fourth": "Lower respiratory infections",
+    "fifth": "Diarrhoeal diseases"
+  },
+  {
+    "country": "Sudan",
+    "year": 2015,
+    "first": "Ischaemic heart disease",
+    "second": "Neonatal conditions",
+    "third": "Stroke",
+    "fourth": "Lower respiratory infections",
+    "fifth": "Road injury"
+  },
+  {
+    "country": "Sudan",
+    "year": 2016,
+    "first": "Ischaemic heart disease",
+    "second": "Neonatal conditions",
+    "third": "Stroke",
+    "fourth": "Lower respiratory infections",
+    "fifth": "Diarrhoeal diseases"
+  },
+  {
+    "country": "Sudan",
+    "year": 2017,
+    "first": "Ischaemic heart disease",
+    "second": "Neonatal conditions",
+    "third": "Stroke",
+    "fourth": "Lower respiratory infections",
+    "fifth": "Diarrhoeal diseases"
+  },
+  {
+    "country": "Sudan",
+    "year": 2018,
+    "first": "Ischaemic heart disease",
+    "second": "Neonatal conditions",
+    "third": "Stroke",
+    "fourth": "Lower respiratory infections",
+    "fifth": "Diarrhoeal diseases"
+  },
+  {
+    "country": "Sudan",
+    "year": 2019,
+    "first": "Ischaemic heart disease",
+    "second": "Neonatal conditions",
+    "third": "Stroke",
+    "fourth": "Lower respiratory infections",
+    "fifth": "Diarrhoeal diseases"
+  },
+  {
+    "country": "Turkey",
+    "year": 2000,
+    "first": "Ischaemic heart disease",
+    "second": "Neonatal conditions",
+    "third": "Stroke",
+    "fourth": "Congenital anomalies",
+    "fifth": "Trachea, bronchus, lung cancers"
+  },
+  {
+    "country": "Turkey",
+    "year": 2001,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Neonatal conditions",
+    "fourth": "Congenital anomalies",
+    "fifth": "Trachea, bronchus, lung cancers"
+  },
+  {
+    "country": "Turkey",
+    "year": 2002,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Neonatal conditions",
+    "fourth": "Congenital anomalies",
+    "fifth": "Trachea, bronchus, lung cancers"
+  },
+  {
+    "country": "Turkey",
+    "year": 2003,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Neonatal conditions",
+    "fourth": "Trachea, bronchus, lung cancers",
+    "fifth": "Congenital anomalies"
+  },
+  {
+    "country": "Turkey",
+    "year": 2004,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Neonatal conditions",
+    "fourth": "Trachea, bronchus, lung cancers",
+    "fifth": "COPD"
+  },
+  {
+    "country": "Turkey",
+    "year": 2005,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Trachea, bronchus, lung cancers",
+    "fourth": "COPD",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "Turkey",
+    "year": 2006,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Trachea, bronchus, lung cancers",
+    "fourth": "COPD",
+    "fifth": "Neonatal conditions"
+  },
+  {
+    "country": "Turkey",
+    "year": 2007,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Trachea, bronchus, lung cancers",
+    "fourth": "COPD",
+    "fifth": "Diabetes mellitus"
+  },
+  {
+    "country": "Turkey",
+    "year": 2008,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Trachea, bronchus, lung cancers",
+    "fourth": "COPD",
+    "fifth": "Diabetes mellitus"
+  },
+  {
+    "country": "Turkey",
+    "year": 2009,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Trachea, bronchus, lung cancers",
+    "fourth": "COPD",
+    "fifth": "Diabetes mellitus"
+  },
+  {
+    "country": "Turkey",
+    "year": 2010,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Trachea, bronchus, lung cancers",
+    "fourth": "COPD",
+    "fifth": "Diabetes mellitus"
+  },
+  {
+    "country": "Turkey",
+    "year": 2011,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Trachea, bronchus, lung cancers",
+    "fourth": "COPD",
+    "fifth": "Diabetes mellitus"
+  },
+  {
+    "country": "Turkey",
+    "year": 2012,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Trachea, bronchus, lung cancers",
+    "fourth": "COPD",
+    "fifth": "Diabetes mellitus"
+  },
+  {
+    "country": "Turkey",
+    "year": 2013,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Trachea, bronchus, lung cancers",
+    "fourth": "COPD",
+    "fifth": "Diabetes mellitus"
+  },
+  {
+    "country": "Turkey",
+    "year": 2014,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Trachea, bronchus, lung cancers",
+    "fourth": "COPD",
+    "fifth": "Diabetes mellitus"
+  },
+  {
+    "country": "Turkey",
+    "year": 2015,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Trachea, bronchus, lung cancers",
+    "fourth": "COPD",
+    "fifth": "Diabetes mellitus"
+  },
+  {
+    "country": "Turkey",
+    "year": 2016,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Trachea, bronchus, lung cancers",
+    "fourth": "COPD",
+    "fifth": "Diabetes mellitus"
+  },
+  {
+    "country": "Turkey",
+    "year": 2017,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Trachea, bronchus, lung cancers",
+    "fourth": "COPD",
+    "fifth": "Diabetes mellitus"
+  },
+  {
+    "country": "Turkey",
+    "year": 2018,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Trachea, bronchus, lung cancers",
+    "fourth": "COPD",
+    "fifth": "Diabetes mellitus"
+  },
+  {
+    "country": "Turkey",
+    "year": 2019,
+    "first": "Ischaemic heart disease",
+    "second": "Stroke",
+    "third": "Trachea, bronchus, lung cancers",
+    "fourth": "COPD",
+    "fifth": "Diabetes mellitus"
+  }
+]

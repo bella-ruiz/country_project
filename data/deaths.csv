@@ -1,0 +1,201 @@
+﻿country,year,first,second,third,fourth,fifth
+Bangladesh,2000,Neonatal conditions,Tuberculosis,Stroke,Diarrhoeal diseases,Lower respiratory infections
+Bangladesh,2001,Neonatal conditions,Tuberculosis,Stroke,Diarrhoeal diseases,Lower respiratory infections
+Bangladesh,2002,Neonatal conditions,Stroke,Tuberculosis,Diarrhoeal diseases,Lower respiratory infections
+Bangladesh,2003,Neonatal conditions,Stroke,Tuberculosis,Ischaemic heart disease,Diarrhoeal diseases
+Bangladesh,2004,Stroke,Neonatal conditions,Tuberculosis,Ischaemic heart disease,Diarrhoeal diseases
+Bangladesh,2005,Stroke,Neonatal conditions,Tuberculosis,Ischaemic heart disease,Diarrhoeal diseases
+Bangladesh,2006,Stroke,Neonatal conditions,Ischaemic heart disease,Tuberculosis,Diarrhoeal diseases
+Bangladesh,2007,Stroke,Neonatal conditions,Ischaemic heart disease,Tuberculosis,Diarrhoeal diseases
+Bangladesh,2008,Stroke,Ischaemic heart disease,Neonatal conditions,Tuberculosis,Diarrhoeal diseases
+Bangladesh,2009,Stroke,Ischaemic heart disease,Neonatal conditions,Tuberculosis,Diarrhoeal diseases
+Bangladesh,2010,Stroke,Ischaemic heart disease,Tuberculosis,Neonatal conditions,COPD
+Bangladesh,2011,Stroke,Ischaemic heart disease,Tuberculosis,Neonatal conditions,COPD
+Bangladesh,2012,Stroke,Ischaemic heart disease,Tuberculosis,Neonatal conditions,Diarrhoeal diseases
+Bangladesh,2013,Stroke,Ischaemic heart disease,Tuberculosis,Neonatal conditions,Diarrhoeal diseases
+Bangladesh,2014,Stroke,Ischaemic heart disease,Tuberculosis,Neonatal conditions,COPD
+Bangladesh,2015,Stroke,Ischaemic heart disease,Tuberculosis,Neonatal conditions,COPD
+Bangladesh,2016,Stroke,Ischaemic heart disease,Tuberculosis,Neonatal conditions,COPD
+Bangladesh,2017,Stroke,Ischaemic heart disease,Tuberculosis,Neonatal conditions,COPD
+Bangladesh,2018,Stroke,Ischaemic heart disease,Neonatal conditions,Tuberculosis,COPD
+Bangladesh,2019,Stroke,Ischaemic heart disease,COPD,Neonatal conditions,Tuberculosis
+China,2000,Stroke,COPD,Ischaemic heart disease,"Trachea, bronchus, lung cancers",Stomach cancer
+China,2001,Stroke,COPD,Ischaemic heart disease,"Trachea, bronchus, lung cancers",Stomach cancer
+China,2002,Stroke,COPD,Ischaemic heart disease,"Trachea, bronchus, lung cancers",Stomach cancer
+China,2003,Stroke,COPD,Ischaemic heart disease,"Trachea, bronchus, lung cancers",Stomach cancer
+China,2004,Stroke,COPD,Ischaemic heart disease,"Trachea, bronchus, lung cancers",Stomach cancer
+China,2005,Stroke,COPD,Ischaemic heart disease,"Trachea, bronchus, lung cancers",Stomach cancer
+China,2006,Stroke,Ischaemic heart disease,COPD,"Trachea, bronchus, lung cancers",Stomach cancer
+China,2007,Stroke,Ischaemic heart disease,COPD,"Trachea, bronchus, lung cancers",Stomach cancer
+China,2008,Stroke,Ischaemic heart disease,COPD,"Trachea, bronchus, lung cancers",Stomach cancer
+China,2009,Stroke,Ischaemic heart disease,COPD,"Trachea, bronchus, lung cancers",Stomach cancer
+China,2010,Stroke,Ischaemic heart disease,COPD,"Trachea, bronchus, lung cancers",Stomach cancer
+China,2011,Stroke,Ischaemic heart disease,COPD,"Trachea, bronchus, lung cancers",Stomach cancer
+China,2012,Stroke,Ischaemic heart disease,COPD,"Trachea, bronchus, lung cancers",Stomach cancer
+China,2013,Stroke,Ischaemic heart disease,COPD,"Trachea, bronchus, lung cancers",Stomach cancer
+China,2014,Stroke,Ischaemic heart disease,COPD,"Trachea, bronchus, lung cancers",Stomach cancer
+China,2015,Stroke,Ischaemic heart disease,COPD,"Trachea, bronchus, lung cancers",Stomach cancer
+China,2016,Stroke,Ischaemic heart disease,COPD,"Trachea, bronchus, lung cancers",Stomach cancer
+China,2017,Stroke,Ischaemic heart disease,COPD,"Trachea, bronchus, lung cancers",Stomach cancer
+China,2018,Stroke,Ischaemic heart disease,COPD,"Trachea, bronchus, lung cancers",Stomach cancer
+China,2019,Stroke,Ischaemic heart disease,COPD,"Trachea, bronchus, lung cancers",Stomach cancer
+Ghana,2000,Neonatal conditions,HIV/AIDS,Malaria,Lower respiratory infections,Diarrhoeal diseases
+Ghana,2001,Neonatal conditions,HIV/AIDS,Malaria,Lower respiratory infections,Diarrhoeal diseases
+Ghana,2002,Neonatal conditions,HIV/AIDS,Lower respiratory infections,Malaria,Diarrhoeal diseases
+Ghana,2003,Neonatal conditions,HIV/AIDS,Lower respiratory infections,Malaria,Diarrhoeal diseases
+Ghana,2004,HIV/AIDS,Neonatal conditions,Lower respiratory infections,Malaria,Stroke
+Ghana,2005,HIV/AIDS,Neonatal conditions,Lower respiratory infections,Malaria,Stroke
+Ghana,2006,Neonatal conditions,HIV/AIDS,Lower respiratory infections,Malaria,Stroke
+Ghana,2007,Neonatal conditions,HIV/AIDS,Lower respiratory infections,Malaria,Stroke
+Ghana,2008,Neonatal conditions,Lower respiratory infections,HIV/AIDS,Malaria,Stroke
+Ghana,2009,Neonatal conditions,Lower respiratory infections,HIV/AIDS,Malaria,Stroke
+Ghana,2010,Neonatal conditions,Lower respiratory infections,HIV/AIDS,Malaria,Stroke
+Ghana,2011,Neonatal conditions,Lower respiratory infections,Malaria,HIV/AIDS,Stroke
+Ghana,2012,Neonatal conditions,Lower respiratory infections,Stroke,Malaria,HIV/AIDS
+Ghana,2013,Neonatal conditions,Lower respiratory infections,Stroke,Malaria,Ischaemic heart disease
+Ghana,2014,Neonatal conditions,Lower respiratory infections,Stroke,HIV/AIDS,Ischaemic heart disease
+Ghana,2015,Neonatal conditions,Lower respiratory infections,Stroke,HIV/AIDS,Ischaemic heart disease
+Ghana,2016,Neonatal conditions,Lower respiratory infections,Stroke,HIV/AIDS,Ischaemic heart disease
+Ghana,2017,Neonatal conditions,Lower respiratory infections,Stroke,HIV/AIDS,Ischaemic heart disease
+Ghana,2018,Neonatal conditions,Lower respiratory infections,Stroke,HIV/AIDS,Ischaemic heart disease
+Ghana,2019,Neonatal conditions,Lower respiratory infections,Stroke,Ischaemic heart disease,HIV/AIDS
+India,2000,Diarrhoeal diseases,Neonatal conditions,Ischaemic heart disease,Lower respiratory infections,COPD
+India,2001,Diarrhoeal diseases,Neonatal conditions,Ischaemic heart disease,Lower respiratory infections,COPD
+India,2002,Diarrhoeal diseases,Neonatal conditions,Ischaemic heart disease,COPD,Lower respiratory infections
+India,2003,Diarrhoeal diseases,Ischaemic heart disease,Neonatal conditions,COPD,Lower respiratory infections
+India,2004,Diarrhoeal diseases,Ischaemic heart disease,Neonatal conditions,COPD,Lower respiratory infections
+India,2005,Diarrhoeal diseases,Ischaemic heart disease,Neonatal conditions,COPD,Lower respiratory infections
+India,2006,Ischaemic heart disease,Diarrhoeal diseases,Neonatal conditions,COPD,Lower respiratory infections
+India,2007,Ischaemic heart disease,Diarrhoeal diseases,Neonatal conditions,COPD,Stroke
+India,2008,Ischaemic heart disease,Diarrhoeal diseases,Neonatal conditions,COPD,Stroke
+India,2009,Ischaemic heart disease,Diarrhoeal diseases,Neonatal conditions,COPD,Stroke
+India,2010,Ischaemic heart disease,Diarrhoeal diseases,Neonatal conditions,COPD,Stroke
+India,2011,Ischaemic heart disease,Diarrhoeal diseases,COPD,Neonatal conditions,Stroke
+India,2012,Ischaemic heart disease,Diarrhoeal diseases,COPD,Neonatal conditions,Stroke
+India,2013,Ischaemic heart disease,Diarrhoeal diseases,COPD,Stroke,Neonatal conditions
+India,2014,Ischaemic heart disease,COPD,Diarrhoeal diseases,Stroke,Neonatal conditions
+India,2015,Ischaemic heart disease,COPD,Diarrhoeal diseases,Stroke,Neonatal conditions
+India,2016,Ischaemic heart disease,COPD,Diarrhoeal diseases,Stroke,Neonatal conditions
+India,2017,Ischaemic heart disease,COPD,Diarrhoeal diseases,Stroke,Neonatal conditions
+India,2018,Ischaemic heart disease,COPD,Diarrhoeal diseases,Stroke,Neonatal conditions
+India,2019,Ischaemic heart disease,COPD,Stroke,Diarrhoeal diseases,Tuberculosis
+Myanmar,2000,Tuberculosis,Stroke,Neonatal conditions,Ischaemic heart disease,Lower respiratory infections
+Myanmar,2001,Tuberculosis,Stroke,Neonatal conditions,Ischaemic heart disease,Lower respiratory infections
+Myanmar,2002,Tuberculosis,Stroke,Neonatal conditions,Ischaemic heart disease,Lower respiratory infections
+Myanmar,2003,Tuberculosis,Stroke,Neonatal conditions,Ischaemic heart disease,Lower respiratory infections
+Myanmar,2004,Tuberculosis,Stroke,Neonatal conditions,Ischaemic heart disease,Lower respiratory infections
+Myanmar,2005,Tuberculosis,Stroke,Ischaemic heart disease,Neonatal conditions,Lower respiratory infections
+Myanmar,2006,Stroke,Tuberculosis,Ischaemic heart disease,Neonatal conditions,Lower respiratory infections
+Myanmar,2007,Stroke,Tuberculosis,Ischaemic heart disease,Neonatal conditions,Lower respiratory infections
+Myanmar,2008,Natural disasters,Stroke,Tuberculosis,Ischaemic heart disease,Neonatal conditions
+Myanmar,2009,Stroke,Tuberculosis,Ischaemic heart disease,Neonatal conditions,COPD
+Myanmar,2010,Stroke,Tuberculosis,Ischaemic heart disease,COPD,Neonatal conditions
+Myanmar,2011,Stroke,Tuberculosis,Ischaemic heart disease,COPD,Neonatal conditions
+Myanmar,2012,Stroke,Tuberculosis,Ischaemic heart disease,COPD,Neonatal conditions
+Myanmar,2013,Stroke,Tuberculosis,Ischaemic heart disease,COPD,Neonatal conditions
+Myanmar,2014,Stroke,Tuberculosis,Ischaemic heart disease,COPD,Neonatal conditions
+Myanmar,2015,Stroke,Ischaemic heart disease,Tuberculosis,COPD,Neonatal conditions
+Myanmar,2016,Stroke,Ischaemic heart disease,Tuberculosis,COPD,Lower respiratory infections
+Myanmar,2017,Stroke,Ischaemic heart disease,Tuberculosis,COPD,Diabetes mellitus
+Myanmar,2018,Stroke,Ischaemic heart disease,COPD,Tuberculosis,Diabetes mellitus
+Myanmar,2019,Stroke,Ischaemic heart disease,COPD,Diabetes mellitus,Tuberculosis
+Panama,2000,Ischaemic heart disease,Stroke,Neonatal conditions,Congenital anomalies,Diabetes mellitus
+Panama,2001,Ischaemic heart disease,Stroke,Neonatal conditions,Diabetes mellitus,Congenital anomalies
+Panama,2002,Ischaemic heart disease,Stroke,Neonatal conditions,Diabetes mellitus,Congenital anomalies
+Panama,2003,Ischaemic heart disease,Stroke,Neonatal conditions,Diabetes mellitus,Congenital anomalies
+Panama,2004,Ischaemic heart disease,Stroke,Neonatal conditions,Diabetes mellitus,COPD
+Panama,2005,Ischaemic heart disease,Stroke,Lower respiratory infections,Kidney diseases,Neonatal conditions
+Panama,2006,Ischaemic heart disease,Stroke,Kidney diseases,Neonatal conditions,Diabetes mellitus
+Panama,2007,Ischaemic heart disease,Stroke,Lower respiratory infections,Kidney diseases,Neonatal conditions
+Panama,2008,Ischaemic heart disease,Stroke,Interpersonal violence,Lower respiratory infections,Kidney diseases
+Panama,2009,Ischaemic heart disease,Stroke,Interpersonal violence,Lower respiratory infections,Neonatal conditions
+Panama,2010,Ischaemic heart disease,Stroke,Lower respiratory infections,Interpersonal violence,Kidney diseases
+Panama,2011,Ischaemic heart disease,Stroke,Interpersonal violence,Lower respiratory infections,Diabetes mellitus
+Panama,2012,Ischaemic heart disease,Stroke,Interpersonal violence,Diabetes mellitus,Lower respiratory infections
+Panama,2013,Ischaemic heart disease,Stroke,Lower respiratory infections,Diabetes mellitus,Interpersonal violence
+Panama,2014,Ischaemic heart disease,Stroke,Diabetes mellitus,Lower respiratory infections,Kidney diseases
+Panama,2015,Ischaemic heart disease,Stroke,Diabetes mellitus,Kidney diseases,Lower respiratory infections
+Panama,2016,Ischaemic heart disease,Stroke,Kidney diseases,Diabetes mellitus,COPD
+Panama,2017,Ischaemic heart disease,Stroke,Kidney diseases,Diabetes mellitus,COPD
+Panama,2018,Ischaemic heart disease,Stroke,Kidney diseases,Diabetes mellitus,COPD
+Panama,2019,Ischaemic heart disease,Stroke,Kidney diseases,Diabetes mellitus,COPD
+Philippines,2000,Ischaemic heart disease,Lower respiratory infections,Tuberculosis,Stroke,Neonatal conditions
+Philippines,2001,Ischaemic heart disease,Lower respiratory infections,Tuberculosis,Stroke,Neonatal conditions
+Philippines,2002,Ischaemic heart disease,Lower respiratory infections,Tuberculosis,Stroke,Neonatal conditions
+Philippines,2003,Ischaemic heart disease,Lower respiratory infections,Stroke,Tuberculosis,Neonatal conditions
+Philippines,2004,Ischaemic heart disease,Lower respiratory infections,Stroke,Tuberculosis,Neonatal conditions
+Philippines,2005,Ischaemic heart disease,Lower respiratory infections,Tuberculosis,Stroke,Neonatal conditions
+Philippines,2006,Ischaemic heart disease,Stroke,Lower respiratory infections,Tuberculosis,Neonatal conditions
+Philippines,2007,Ischaemic heart disease,Stroke,Lower respiratory infections,Tuberculosis,Neonatal conditions
+Philippines,2008,Ischaemic heart disease,Stroke,Lower respiratory infections,Tuberculosis,Neonatal conditions
+Philippines,2009,Ischaemic heart disease,Stroke,Lower respiratory infections,Tuberculosis,Neonatal conditions
+Philippines,2010,Ischaemic heart disease,Stroke,Lower respiratory infections,Tuberculosis,Neonatal conditions
+Philippines,2011,Ischaemic heart disease,Stroke,Lower respiratory infections,Tuberculosis,Neonatal conditions
+Philippines,2012,Ischaemic heart disease,Stroke,Lower respiratory infections,Tuberculosis,Neonatal conditions
+Philippines,2013,Ischaemic heart disease,Stroke,Lower respiratory infections,Tuberculosis,Neonatal conditions
+Philippines,2014,Ischaemic heart disease,Lower respiratory infections,Stroke,Tuberculosis,Kidney diseases
+Philippines,2015,Ischaemic heart disease,Lower respiratory infections,Stroke,Kidney diseases,Tuberculosis
+Philippines,2016,Ischaemic heart disease,Lower respiratory infections,Stroke,Kidney diseases,Hypertensive heart disease
+Philippines,2017,Ischaemic heart disease,Lower respiratory infections,Stroke,Kidney diseases,Hypertensive heart disease
+Philippines,2018,Ischaemic heart disease,Lower respiratory infections,Stroke,Kidney diseases,Hypertensive heart disease
+Philippines,2019,Ischaemic heart disease,Lower respiratory infections,Stroke,Kidney diseases,Hypertensive heart disease
+Rwanda,2000,Diarrhoeal diseases,Lower respiratory infections,HIV/AIDS,Neonatal conditions,Stroke
+Rwanda,2001,Lower respiratory infections,Diarrhoeal diseases,HIV/AIDS,Neonatal conditions,Stroke
+Rwanda,2002,HIV/AIDS,Lower respiratory infections,Diarrhoeal diseases,Neonatal conditions,Stroke
+Rwanda,2003,HIV/AIDS,Lower respiratory infections,Diarrhoeal diseases,Neonatal conditions,Stroke
+Rwanda,2004,HIV/AIDS,Lower respiratory infections,Diarrhoeal diseases,Neonatal conditions,Stroke
+Rwanda,2005,HIV/AIDS,Lower respiratory infections,Neonatal conditions,Diarrhoeal diseases,Stroke
+Rwanda,2006,Lower respiratory infections,HIV/AIDS,Neonatal conditions,Diarrhoeal diseases,Stroke
+Rwanda,2007,Lower respiratory infections,Neonatal conditions,HIV/AIDS,Diarrhoeal diseases,Stroke
+Rwanda,2008,Lower respiratory infections,Neonatal conditions,HIV/AIDS,Diarrhoeal diseases,Stroke
+Rwanda,2009,Lower respiratory infections,Neonatal conditions,HIV/AIDS,Diarrhoeal diseases,Stroke
+Rwanda,2010,Neonatal conditions,Lower respiratory infections,Diarrhoeal diseases,HIV/AIDS,Stroke
+Rwanda,2011,Neonatal conditions,Lower respiratory infections,Diarrhoeal diseases,HIV/AIDS,Stroke
+Rwanda,2012,Neonatal conditions,Lower respiratory infections,Stroke,Diarrhoeal diseases,HIV/AIDS
+Rwanda,2013,Neonatal conditions,Lower respiratory infections,Stroke,Diarrhoeal diseases,HIV/AIDS
+Rwanda,2014,Neonatal conditions,Lower respiratory infections,Stroke,Diarrhoeal diseases,HIV/AIDS
+Rwanda,2015,Neonatal conditions,Lower respiratory infections,Stroke,Diarrhoeal diseases,Road injury
+Rwanda,2016,Neonatal conditions,Lower respiratory infections,Stroke,Road injury,Diarrhoeal diseases
+Rwanda,2017,Neonatal conditions,Lower respiratory infections,Stroke,Road injury,Diarrhoeal diseases
+Rwanda,2018,Neonatal conditions,Lower respiratory infections,Stroke,Road injury,Ischaemic heart disease
+Rwanda,2019,Neonatal conditions,Lower respiratory infections,Stroke,Road injury,Ischaemic heart disease
+Sudan,2000,Neonatal conditions,Ischaemic heart disease,Lower respiratory infections,Diarrhoeal diseases,Stroke
+Sudan,2001,Neonatal conditions,Ischaemic heart disease,Lower respiratory infections,Diarrhoeal diseases,Stroke
+Sudan,2002,Neonatal conditions,Ischaemic heart disease,Lower respiratory infections,Diarrhoeal diseases,Stroke
+Sudan,2003,Neonatal conditions,Ischaemic heart disease,Lower respiratory infections,Stroke,Diarrhoeal diseases
+Sudan,2004,Neonatal conditions,Ischaemic heart disease,Lower respiratory infections,Stroke,Diarrhoeal diseases
+Sudan,2005,Neonatal conditions,Ischaemic heart disease,Lower respiratory infections,Stroke,Diarrhoeal diseases
+Sudan,2006,Neonatal conditions,Ischaemic heart disease,Lower respiratory infections,Stroke,Diarrhoeal diseases
+Sudan,2007,Neonatal conditions,Ischaemic heart disease,Lower respiratory infections,Stroke,Diarrhoeal diseases
+Sudan,2008,Neonatal conditions,Ischaemic heart disease,Lower respiratory infections,Stroke,Diarrhoeal diseases
+Sudan,2009,Neonatal conditions,Ischaemic heart disease,Lower respiratory infections,Stroke,Diarrhoeal diseases
+Sudan,2010,Neonatal conditions,Ischaemic heart disease,Lower respiratory infections,Stroke,Diarrhoeal diseases
+Sudan,2011,Neonatal conditions,Ischaemic heart disease,Lower respiratory infections,Stroke,Diarrhoeal diseases
+Sudan,2012,Ischaemic heart disease,Neonatal conditions,Lower respiratory infections,Stroke,Diarrhoeal diseases
+Sudan,2013,Ischaemic heart disease,Neonatal conditions,Stroke,Lower respiratory infections,Diarrhoeal diseases
+Sudan,2014,Ischaemic heart disease,Neonatal conditions,Stroke,Lower respiratory infections,Diarrhoeal diseases
+Sudan,2015,Ischaemic heart disease,Neonatal conditions,Stroke,Lower respiratory infections,Road injury
+Sudan,2016,Ischaemic heart disease,Neonatal conditions,Stroke,Lower respiratory infections,Diarrhoeal diseases
+Sudan,2017,Ischaemic heart disease,Neonatal conditions,Stroke,Lower respiratory infections,Diarrhoeal diseases
+Sudan,2018,Ischaemic heart disease,Neonatal conditions,Stroke,Lower respiratory infections,Diarrhoeal diseases
+Sudan,2019,Ischaemic heart disease,Neonatal conditions,Stroke,Lower respiratory infections,Diarrhoeal diseases
+Turkey,2000,Ischaemic heart disease,Neonatal conditions,Stroke,Congenital anomalies,"Trachea, bronchus, lung cancers"
+Turkey,2001,Ischaemic heart disease,Stroke,Neonatal conditions,Congenital anomalies,"Trachea, bronchus, lung cancers"
+Turkey,2002,Ischaemic heart disease,Stroke,Neonatal conditions,Congenital anomalies,"Trachea, bronchus, lung cancers"
+Turkey,2003,Ischaemic heart disease,Stroke,Neonatal conditions,"Trachea, bronchus, lung cancers",Congenital anomalies
+Turkey,2004,Ischaemic heart disease,Stroke,Neonatal conditions,"Trachea, bronchus, lung cancers",COPD
+Turkey,2005,Ischaemic heart disease,Stroke,"Trachea, bronchus, lung cancers",COPD,Neonatal conditions
+Turkey,2006,Ischaemic heart disease,Stroke,"Trachea, bronchus, lung cancers",COPD,Neonatal conditions
+Turkey,2007,Ischaemic heart disease,Stroke,"Trachea, bronchus, lung cancers",COPD,Diabetes mellitus
+Turkey,2008,Ischaemic heart disease,Stroke,"Trachea, bronchus, lung cancers",COPD,Diabetes mellitus
+Turkey,2009,Ischaemic heart disease,Stroke,"Trachea, bronchus, lung cancers",COPD,Diabetes mellitus
+Turkey,2010,Ischaemic heart disease,Stroke,"Trachea, bronchus, lung cancers",COPD,Diabetes mellitus
+Turkey,2011,Ischaemic heart disease,Stroke,"Trachea, bronchus, lung cancers",COPD,Diabetes mellitus
+Turkey,2012,Ischaemic heart disease,Stroke,"Trachea, bronchus, lung cancers",COPD,Diabetes mellitus
+Turkey,2013,Ischaemic heart disease,Stroke,"Trachea, bronchus, lung cancers",COPD,Diabetes mellitus
+Turkey,2014,Ischaemic heart disease,Stroke,"Trachea, bronchus, lung cancers",COPD,Diabetes mellitus
+Turkey,2015,Ischaemic heart disease,Stroke,"Trachea, bronchus, lung cancers",COPD,Diabetes mellitus
+Turkey,2016,Ischaemic heart disease,Stroke,"Trachea, bronchus, lung cancers",COPD,Diabetes mellitus
+Turkey,2017,Ischaemic heart disease,Stroke,"Trachea, bronchus, lung cancers",COPD,Diabetes mellitus
+Turkey,2018,Ischaemic heart disease,Stroke,"Trachea, bronchus, lung cancers",COPD,Diabetes mellitus
+Turkey,2019,Ischaemic heart disease,Stroke,"Trachea, bronchus, lung cancers",COPD,Diabetes mellitus

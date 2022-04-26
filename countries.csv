@@ -1,0 +1,11 @@
+ID,Name,Page
+1,Bangladesh,https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BD&most_recent_value_desc=true
+2,China,https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CN&most_recent_value_desc=true
+3,Ghana,https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=GH&most_recent_value_desc=true
+4,India,https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=IN&most_recent_value_desc=true
+5,Myanmar,https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MM&most_recent_value_desc=true
+6,Panama,https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=PA&most_recent_value_desc=true
+7,Philippines,https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=PH&most_recent_value_desc=true
+8,Rwanda,https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=RW&most_recent_value_desc=true
+9,Sudan,https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SD&most_recent_value_desc=true
+10,Turkey,https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=TR&most_recent_value_desc=true

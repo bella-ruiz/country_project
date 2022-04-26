@@ -1,0 +1,1002 @@
+[
+  {
+    "country": "Bangladesh",
+    "year": 2000,
+    "gdp": "$418.07"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2001,
+    "gdp": "$415.03"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2002,
+    "gdp": "$413.08"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2003,
+    "gdp": "$446.31"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2004,
+    "gdp": "$475.29"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2005,
+    "gdp": "$499.46"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2006,
+    "gdp": "$509.64"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2007,
+    "gdp": "$558.05"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2008,
+    "gdp": "$634.99"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2009,
+    "gdp": "$702.26"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2010,
+    "gdp": "$781.15"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2011,
+    "gdp": "$861.76"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2012,
+    "gdp": "$883.12"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2013,
+    "gdp": "$981.86"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2014,
+    "gdp": "$1,118.87"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2015,
+    "gdp": "$1,248.45"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2016,
+    "gdp": "$1,401.56"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2017,
+    "gdp": "$1,563.77"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2018,
+    "gdp": "$1,698.13"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2019,
+    "gdp": "$1,855.74"
+  },
+  {
+    "country": "China",
+    "year": 2000,
+    "gdp": "$959.37"
+  },
+  {
+    "country": "China",
+    "year": 2001,
+    "gdp": "$1,053.11"
+  },
+  {
+    "country": "China",
+    "year": 2002,
+    "gdp": "$1,148.51"
+  },
+  {
+    "country": "China",
+    "year": 2003,
+    "gdp": "$1,288.64"
+  },
+  {
+    "country": "China",
+    "year": 2004,
+    "gdp": "$1,508.67"
+  },
+  {
+    "country": "China",
+    "year": 2005,
+    "gdp": "$1,753.42"
+  },
+  {
+    "country": "China",
+    "year": 2006,
+    "gdp": "$2,099.23"
+  },
+  {
+    "country": "China",
+    "year": 2007,
+    "gdp": "$2,693.97"
+  },
+  {
+    "country": "China",
+    "year": 2008,
+    "gdp": "$3,468.30"
+  },
+  {
+    "country": "China",
+    "year": 2009,
+    "gdp": "$3,832.24"
+  },
+  {
+    "country": "China",
+    "year": 2010,
+    "gdp": "$4,550.45"
+  },
+  {
+    "country": "China",
+    "year": 2011,
+    "gdp": "$5,614.35"
+  },
+  {
+    "country": "China",
+    "year": 2012,
+    "gdp": "$6,300.62"
+  },
+  {
+    "country": "China",
+    "year": 2013,
+    "gdp": "$7,020.34"
+  },
+  {
+    "country": "China",
+    "year": 2014,
+    "gdp": "$7,636.12"
+  },
+  {
+    "country": "China",
+    "year": 2015,
+    "gdp": "$8,016.43"
+  },
+  {
+    "country": "China",
+    "year": 2016,
+    "gdp": "$8,094.36"
+  },
+  {
+    "country": "China",
+    "year": 2017,
+    "gdp": "$8,816.99"
+  },
+  {
+    "country": "China",
+    "year": 2018,
+    "gdp": "$9,905.34"
+  },
+  {
+    "country": "China",
+    "year": 2019,
+    "gdp": "$10,143.84"
+  },
+  {
+    "country": "Ghana",
+    "year": 2000,
+    "gdp": "$258.47"
+  },
+  {
+    "country": "Ghana",
+    "year": 2001,
+    "gdp": "$269.01"
+  },
+  {
+    "country": "Ghana",
+    "year": 2002,
+    "gdp": "$304.56"
+  },
+  {
+    "country": "Ghana",
+    "year": 2003,
+    "gdp": "$367.82"
+  },
+  {
+    "country": "Ghana",
+    "year": 2004,
+    "gdp": "$417.51"
+  },
+  {
+    "country": "Ghana",
+    "year": 2005,
+    "gdp": "$492.54"
+  },
+  {
+    "country": "Ghana",
+    "year": 2006,
+    "gdp": "$913.39"
+  },
+  {
+    "country": "Ghana",
+    "year": 2007,
+    "gdp": "$1,081.17"
+  },
+  {
+    "country": "Ghana",
+    "year": 2008,
+    "gdp": "$1,217.06"
+  },
+  {
+    "country": "Ghana",
+    "year": 2009,
+    "gdp": "$1,077.66"
+  },
+  {
+    "country": "Ghana",
+    "year": 2010,
+    "gdp": "$1,299.35"
+  },
+  {
+    "country": "Ghana",
+    "year": 2011,
+    "gdp": "$1,549.46"
+  },
+  {
+    "country": "Ghana",
+    "year": 2012,
+    "gdp": "$1,587.56"
+  },
+  {
+    "country": "Ghana",
+    "year": 2013,
+    "gdp": "$2,361.09"
+  },
+  {
+    "country": "Ghana",
+    "year": 2014,
+    "gdp": "$2,012.26"
+  },
+  {
+    "country": "Ghana",
+    "year": 2015,
+    "gdp": "$1,774.07"
+  },
+  {
+    "country": "Ghana",
+    "year": 2016,
+    "gdp": "$1,971.96"
+  },
+  {
+    "country": "Ghana",
+    "year": 2017,
+    "gdp": "$2,074.29"
+  },
+  {
+    "country": "Ghana",
+    "year": 2018,
+    "gdp": "$2,260.86"
+  },
+  {
+    "country": "Ghana",
+    "year": 2019,
+    "gdp": "$2,246.63"
+  },
+  {
+    "country": "India",
+    "year": 2000,
+    "gdp": "$443.31"
+  },
+  {
+    "country": "India",
+    "year": 2001,
+    "gdp": "$451.57"
+  },
+  {
+    "country": "India",
+    "year": 2002,
+    "gdp": "$470.99"
+  },
+  {
+    "country": "India",
+    "year": 2003,
+    "gdp": "$546.73"
+  },
+  {
+    "country": "India",
+    "year": 2004,
+    "gdp": "$627.77"
+  },
+  {
+    "country": "India",
+    "year": 2005,
+    "gdp": "$714.86"
+  },
+  {
+    "country": "India",
+    "year": 2006,
+    "gdp": "$806.75"
+  },
+  {
+    "country": "India",
+    "year": 2007,
+    "gdp": "$1,028.33"
+  },
+  {
+    "country": "India",
+    "year": 2008,
+    "gdp": "$998.52"
+  },
+  {
+    "country": "India",
+    "year": 2009,
+    "gdp": "$1,101.96"
+  },
+  {
+    "country": "India",
+    "year": 2010,
+    "gdp": "$1,357.56"
+  },
+  {
+    "country": "India",
+    "year": 2011,
+    "gdp": "$1,458.10"
+  },
+  {
+    "country": "India",
+    "year": 2012,
+    "gdp": "$1,443.88"
+  },
+  {
+    "country": "India",
+    "year": 2013,
+    "gdp": "$1,449.61"
+  },
+  {
+    "country": "India",
+    "year": 2014,
+    "gdp": "$1,573.89"
+  },
+  {
+    "country": "India",
+    "year": 2015,
+    "gdp": "$1,605.61"
+  },
+  {
+    "country": "India",
+    "year": 2016,
+    "gdp": "$1,732.55"
+  },
+  {
+    "country": "India",
+    "year": 2017,
+    "gdp": "$1,980.67"
+  },
+  {
+    "country": "India",
+    "year": 2018,
+    "gdp": "$1,996.92"
+  },
+  {
+    "country": "India",
+    "year": 2019,
+    "gdp": "$2,100.75"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2000,
+    "gdp": "$443.31"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2001,
+    "gdp": "$451.57"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2002,
+    "gdp": "$470.99"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2003,
+    "gdp": "$546.73"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2004,
+    "gdp": "$627.77"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2005,
+    "gdp": "$714.86"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2006,
+    "gdp": "$806.75"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2007,
+    "gdp": "$1,028.33"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2008,
+    "gdp": "$998.52"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2009,
+    "gdp": "$1,101.96"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2010,
+    "gdp": "$1,357.56"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2011,
+    "gdp": "$1,458.10"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2012,
+    "gdp": "$1,443.88"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2013,
+    "gdp": "$1,449.61"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2014,
+    "gdp": "$1,573.89"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2015,
+    "gdp": "$1,605.61"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2016,
+    "gdp": "$1,732.55"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2017,
+    "gdp": "$1,980.67"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2018,
+    "gdp": "$1,996.92"
+  },
+  {
+    "country": "Myanmar",
+    "year": 2019,
+    "gdp": "$2,100.75"
+  },
+  {
+    "country": "Panama",
+    "year": 2000,
+    "gdp": "$4,060.32"
+  },
+  {
+    "country": "Panama",
+    "year": 2001,
+    "gdp": "$4,046.43"
+  },
+  {
+    "country": "Panama",
+    "year": 2002,
+    "gdp": "$4,126.23"
+  },
+  {
+    "country": "Panama",
+    "year": 2003,
+    "gdp": "$4,267.29"
+  },
+  {
+    "country": "Panama",
+    "year": 2004,
+    "gdp": "$4,592.15"
+  },
+  {
+    "country": "Panama",
+    "year": 2005,
+    "gdp": "$4,916.91"
+  },
+  {
+    "country": "Panama",
+    "year": 2006,
+    "gdp": "$5,348.88"
+  },
+  {
+    "country": "Panama",
+    "year": 2007,
+    "gdp": "$6,166.19"
+  },
+  {
+    "country": "Panama",
+    "year": 2008,
+    "gdp": "$7,154.27"
+  },
+  {
+    "country": "Panama",
+    "year": 2009,
+    "gdp": "$7,576.14"
+  },
+  {
+    "country": "Panama",
+    "year": 2010,
+    "gdp": "$8,082.02"
+  },
+  {
+    "country": "Panama",
+    "year": 2011,
+    "gdp": "$9,358.27"
+  },
+  {
+    "country": "Panama",
+    "year": 2012,
+    "gdp": "$10,722.26"
+  },
+  {
+    "country": "Panama",
+    "year": 2013,
+    "gdp": "$11,889.10"
+  },
+  {
+    "country": "Panama",
+    "year": 2014,
+    "gdp": "$12,796.07"
+  },
+  {
+    "country": "Panama",
+    "year": 2015,
+    "gdp": "$13,630.30"
+  },
+  {
+    "country": "Panama",
+    "year": 2016,
+    "gdp": "$14,343.98"
+  },
+  {
+    "country": "Panama",
+    "year": 2017,
+    "gdp": "$15,146.41"
+  },
+  {
+    "country": "Panama",
+    "year": 2018,
+    "gdp": "$15,545.00"
+  },
+  {
+    "country": "Panama",
+    "year": 2019,
+    "gdp": "$15,774.25"
+  },
+  {
+    "country": "Philippines",
+    "year": 2000,
+    "gdp": "$1,072.80"
+  },
+  {
+    "country": "Philippines",
+    "year": 2001,
+    "gdp": "$990.57"
+  },
+  {
+    "country": "Philippines",
+    "year": 2002,
+    "gdp": "$1,036.16"
+  },
+  {
+    "country": "Philippines",
+    "year": 2003,
+    "gdp": "$1,048.01"
+  },
+  {
+    "country": "Philippines",
+    "year": 2004,
+    "gdp": "$1,121.49"
+  },
+  {
+    "country": "Philippines",
+    "year": 2005,
+    "gdp": "$1,244.35"
+  },
+  {
+    "country": "Philippines",
+    "year": 2006,
+    "gdp": "$1,452.44"
+  },
+  {
+    "country": "Philippines",
+    "year": 2007,
+    "gdp": "$1,744.64"
+  },
+  {
+    "country": "Philippines",
+    "year": 2008,
+    "gdp": "$1,998.03"
+  },
+  {
+    "country": "Philippines",
+    "year": 2009,
+    "gdp": "$1,904.20"
+  },
+  {
+    "country": "Philippines",
+    "year": 2010,
+    "gdp": "$2,217.47"
+  },
+  {
+    "country": "Philippines",
+    "year": 2011,
+    "gdp": "$2,450.74"
+  },
+  {
+    "country": "Philippines",
+    "year": 2012,
+    "gdp": "$2,694.31"
+  },
+  {
+    "country": "Philippines",
+    "year": 2013,
+    "gdp": "$2,871.43"
+  },
+  {
+    "country": "Philippines",
+    "year": 2014,
+    "gdp": "$2,959.65"
+  },
+  {
+    "country": "Philippines",
+    "year": 2015,
+    "gdp": "$3,001.04"
+  },
+  {
+    "country": "Philippines",
+    "year": 2016,
+    "gdp": "$3,073.65"
+  },
+  {
+    "country": "Philippines",
+    "year": 2017,
+    "gdp": "$3,123.25"
+  },
+  {
+    "country": "Philippines",
+    "year": 2018,
+    "gdp": "$3,252.11"
+  },
+  {
+    "country": "Philippines",
+    "year": 2019,
+    "gdp": "$3,485.34"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2000,
+    "gdp": "$260.60"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2001,
+    "gdp": "$238.78"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2002,
+    "gdp": "$233.15"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2003,
+    "gdp": "$249.74"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2004,
+    "gdp": "$273.63"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2005,
+    "gdp": "$331.69"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2006,
+    "gdp": "$366.89"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2007,
+    "gdp": "$438.66"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2008,
+    "gdp": "$543.55"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2009,
+    "gdp": "$579.73"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2010,
+    "gdp": "$609.72"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2011,
+    "gdp": "$668.49"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2012,
+    "gdp": "$725.17"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2013,
+    "gdp": "$722.89"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2014,
+    "gdp": "$743.56"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2015,
+    "gdp": "$751.08"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2016,
+    "gdp": "$744.76"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2017,
+    "gdp": "$772.32"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2018,
+    "gdp": "$783.64"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2019,
+    "gdp": "$820.15"
+  },
+  {
+    "country": "Sudan",
+    "year": 2000,
+    "gdp": "$366.17"
+  },
+  {
+    "country": "Sudan",
+    "year": 2001,
+    "gdp": "$456.62"
+  },
+  {
+    "country": "Sudan",
+    "year": 2002,
+    "gdp": "$512.44"
+  },
+  {
+    "country": "Sudan",
+    "year": 2003,
+    "gdp": "$586.75"
+  },
+  {
+    "country": "Sudan",
+    "year": 2004,
+    "gdp": "$711.92"
+  },
+  {
+    "country": "Sudan",
+    "year": 2005,
+    "gdp": "$914.17"
+  },
+  {
+    "country": "Sudan",
+    "year": 2006,
+    "gdp": "$1,143.93"
+  },
+  {
+    "country": "Sudan",
+    "year": 2007,
+    "gdp": "$1,461.32"
+  },
+  {
+    "country": "Sudan",
+    "year": 2008,
+    "gdp": "$1,551.09"
+  },
+  {
+    "country": "Sudan",
+    "year": 2009,
+    "gdp": "$1,202.56"
+  },
+  {
+    "country": "Sudan",
+    "year": 2010,
+    "gdp": "$1,338.44"
+  },
+  {
+    "country": "Sudan",
+    "year": 2011,
+    "gdp": "$1,366.41"
+  },
+  {
+    "country": "Sudan",
+    "year": 2012,
+    "gdp": "$1,039.76"
+  },
+  {
+    "country": "Sudan",
+    "year": 2013,
+    "gdp": "$1,160.54"
+  },
+  {
+    "country": "Sudan",
+    "year": 2014,
+    "gdp": "$1,303.84"
+  },
+  {
+    "country": "Sudan",
+    "year": 2015,
+    "gdp": "$1,329.64"
+  },
+  {
+    "country": "Sudan",
+    "year": 2016,
+    "gdp": "$1,069.84"
+  },
+  {
+    "country": "Sudan",
+    "year": 2017,
+    "gdp": "$1,011.52"
+  },
+  {
+    "country": "Sudan",
+    "year": 2018,
+    "gdp": "$740.75"
+  },
+  {
+    "country": "Sudan",
+    "year": 2019,
+    "gdp": "$610.93"
+  },
+  {
+    "country": "Turkey",
+    "year": 2000,
+    "gdp": "$4,337.48"
+  },
+  {
+    "country": "Turkey",
+    "year": 2001,
+    "gdp": "$3,142.92"
+  },
+  {
+    "country": "Turkey",
+    "year": 2002,
+    "gdp": "$3,687.96"
+  },
+  {
+    "country": "Turkey",
+    "year": 2003,
+    "gdp": "$4,760.10"
+  },
+  {
+    "country": "Turkey",
+    "year": 2004,
+    "gdp": "$6,101.63"
+  },
+  {
+    "country": "Turkey",
+    "year": 2005,
+    "gdp": "$7,456.30"
+  },
+  {
+    "country": "Turkey",
+    "year": 2006,
+    "gdp": "$8,101.86"
+  },
+  {
+    "country": "Turkey",
+    "year": 2007,
+    "gdp": "$9,791.88"
+  },
+  {
+    "country": "Turkey",
+    "year": 2008,
+    "gdp": "$10,941.17"
+  },
+  {
+    "country": "Turkey",
+    "year": 2009,
+    "gdp": "$9,103.47"
+  },
+  {
+    "country": "Turkey",
+    "year": 2010,
+    "gdp": "$10,742.77"
+  },
+  {
+    "country": "Turkey",
+    "year": 2011,
+    "gdp": "$11,420.56"
+  },
+  {
+    "country": "Turkey",
+    "year": 2012,
+    "gdp": "$11,795.63"
+  },
+  {
+    "country": "Turkey",
+    "year": 2013,
+    "gdp": "$12,614.78"
+  },
+  {
+    "country": "Turkey",
+    "year": 2014,
+    "gdp": "$12,157.99"
+  },
+  {
+    "country": "Turkey",
+    "year": 2015,
+    "gdp": "$11,006.28"
+  },
+  {
+    "country": "Turkey",
+    "year": 2016,
+    "gdp": "$10,894.60"
+  },
+  {
+    "country": "Turkey",
+    "year": 2017,
+    "gdp": "$10,589.67"
+  },
+  {
+    "country": "Turkey",
+    "year": 2018,
+    "gdp": "$9,454.35"
+  },
+  {
+    "country": "Turkey",
+    "year": 2019,
+    "gdp": "$9,121.52"
+  }
+]
