@@ -20,7 +20,7 @@ def detail(num):
     try:
         country_dict = country_list[int(num) - 1]
     except:
-        return f"<h1>Invalid value for Country: {num} </h1>"
+        return f"<h1>Invalid value for Country: {num}</h1>"
     return render_template('country.html', country=country_dict, the_title=country_dict['Name'])
 
 if __name__ == '__main__':
